@@ -1,9 +1,7 @@
 # teste-curso-dio-dominando-ide
 teste repositorio
 
-Atalhos do IntelliJ Idea
-Página principal > Intellij Idea > Categoria:Java > Atalhos do IntelliJ Idea
-Geral
+Atalhos do IntelliJ 
 
 Alt + 1: Focar aba de projetos
 Alt + Shift + Insert: Alterna entre modo de seleção de linha/coluna
@@ -22,8 +20,6 @@ Ctrl + Alt + F: Cria field - propriedade da classe (precisa estar sobre código 
 Ctrl + Alt + V: Cria variável (precisa estar sobre código que permite atribuição)
 Ctrl + Alt + T: Templates de IF, for, while, etc (precisa selecionar o código antes)
 Ctrl + J: Exibe todos os templates disponíveis
-
-Na aba de código
 
 Ctrl + Y: Apaga a linha inteira
 Ctrl + D: Duplicar linha atual
